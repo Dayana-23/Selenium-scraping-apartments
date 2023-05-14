@@ -1,2 +1,2 @@
 # Selenium-scraping-apartments
-Web Scraping of apartments from Krisha.KZ using Selenium and ChromeDriverManager 
+Web Scraping of apartments from Krisha.KZ using Selenium and ChromeDriverManager in Python
